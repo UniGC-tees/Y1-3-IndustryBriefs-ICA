@@ -39,4 +39,4 @@ This should provide some level of skill expression to the player's positional aw
 - [ ] player pre selected drone path
 - [ ] mini-map
 - [ ] enemy grouping and tactical AI
-- [ ] radio person ((calls more enemies)scan with drone and take them out first)
+- [ ] radio person (calls more enemies, scan with drone and take them out first)
